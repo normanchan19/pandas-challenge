@@ -6,3 +6,6 @@ Added associated files. Altered files are the ones that hold the changes and wor
 
 4/22
 Completed Player Count, Purchasing Analysis (Total), and Gender Demographics.
+
+4/23
+Completed Gender Purchasing Analysis.
