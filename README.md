@@ -13,3 +13,4 @@ Completed Age Demographics.
 Completed Age Purchasing Analysis.
 Completed Top Spenders.
 Completed Most Popular Items.
+Completed Most Profitable Items.
