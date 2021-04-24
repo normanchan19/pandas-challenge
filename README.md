@@ -11,3 +11,4 @@ Completed Player Count, Purchasing Analysis (Total), and Gender Demographics.
 Completed Gender Purchasing Analysis.
 Completed Age Demographics.
 Completed Age Purchasing Analysis.
+Completed Top Spenders.
