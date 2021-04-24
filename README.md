@@ -10,3 +10,4 @@ Completed Player Count, Purchasing Analysis (Total), and Gender Demographics.
 4/23
 Completed Gender Purchasing Analysis.
 Completed Age Demographics.
+Completed Age Purchasing Analysis.
